@@ -17,7 +17,7 @@ $ ls Wykaz_imion_* \                # take all the files
 ```
 
 ```shell
-$ wc -l names.txt 
+$ wc -l names.txt
 40966 names.txt
 ```
 
